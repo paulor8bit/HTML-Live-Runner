@@ -9,7 +9,7 @@ Um simples aplicativo de desktop feito com Electron que permite colar código HT
 
 ## 👩‍💻 Como Usar (Usuário Final)
 
-1. Vá para a [página de Releases](https://github.com/seu-usuario/seu-repositorio/releases) do projeto no GitHub.
+1. Vá para a [página de Releases]([https://github.com/seu-usuario/seu-repositorio/releases](https://github.com/paulor8bit/HTML-Live-Runner/releases/tag/Windows)) do projeto no GitHub.
 2. Baixe o arquivo `HTML.Runner.Setup.X.X.X.exe` da versão mais recente.
 3. Rode o instalador e, depois, execute o programa pelo atalho criado no seu computador!
 
