@@ -2,8 +2,8 @@
 
 Um simples aplicativo de desktop feito com Electron que permite colar código HTML e visualizá-lo instantaneamente em uma nova janela.
 
-![App Screenshot](https://i.imgur.com/YOUR_SCREENSHOT.png) 
-*Substitua o link acima pelo link de um screenshot do seu app! 📸*
+<img width="1066" height="699" alt="image" src="https://github.com/user-attachments/assets/fed28b17-fc1b-45dd-8ceb-00cc794f894c" />
+
 
 ---
 
